@@ -43,6 +43,7 @@ int main() {
 
     llenarArreglo(arreglo);
     mostrarArreglo(arreglo);
+    
 
     printf("Promedio de los elementos: %.2f\n", calcularPromedio(arreglo));
 
