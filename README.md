@@ -8,12 +8,12 @@ He desarrollado una gran variedad de proyectos en C, aprovechando al máximo sus
 
 ## Niveles y PDFs
 
-| Nivel / TP       | Enlace al PDF                                    |
-|-------------------|-------------------------------------------------|
-| nivel1 / tp2     | [Ver PDF](./practica nivel 1/2-TP/TP2-2024-P06.pdf)                    |
-| nivel1 / tp3     | [Ver PDF](./practica nivel 1/3-TP/TP3-2024-P06.pdf)                    |
-| nivel1 / tp4     | [Ver PDF](./practica nivel 1/4-TP/TP4-2024-P06.pdf)                    |
-| nivel1 / tp5     | [Ver PDF](./practica nivel 1/5-TP/TP5-2024-P06 .pdf)                    |
-| nivel2 / tp1     | [Ver PDF](./practica nivel 2/1-TP/TP6-2024-P06.pdf)                    |
-| nivel2 / tp2     | [Ver PDF](./practica nivel 2/2-TP/TP7-2024-P06.pdf)                    |
-| nivel2 / tp3     | [Ver PDF](./practica nivel 2/3-TP/TP8-2024-P06.pdf)                    |
+| Nivel / TP       | Enlace al PDF                                                        |
+|-------------------|---------------------------------------------------------------------|
+| nivel1 / tp2     | [Ver PDF](./practica%20nivel%201/2-TP/TP2-2024-P06.pdf)            |
+| nivel1 / tp3     | [Ver PDF](./practica%20nivel%201/3-TP/TP3-2024-P06.pdf)            |
+| nivel1 / tp4     | [Ver PDF](./practica%20nivel%201/4-TP/TP4-2024-P06.pdf)            |
+| nivel1 / tp5     | [Ver PDF](./practica%20nivel%201/5-TP/TP5-2024-P06.pdf)            |
+| nivel2 / tp1     | [Ver PDF](./practica%20nivel%202/1-TP/TP6-2024-P06.pdf)            |
+| nivel2 / tp2     | [Ver PDF](./practica%20nivel%202/2-TP/TP7-2024-P06.pdf)            |
+| nivel2 / tp3     | [Ver PDF](./practica%20nivel%202/3-TP/TP8-2024-P06.pdf)  
